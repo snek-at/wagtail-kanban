@@ -6,6 +6,15 @@
 linux-venv/
 windows-env/
 
+# Node.js environments
+dist/
+build/
+*.pyc
+.DS_Store
+*.egg-info
+npm-debug.log
+node_modules
+
 # Pycache
 __pycache__/
 *.pyc
